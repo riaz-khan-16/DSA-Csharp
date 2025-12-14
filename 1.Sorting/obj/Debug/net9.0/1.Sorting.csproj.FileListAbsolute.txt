@@ -12,3 +12,4 @@ D:\DSA\1.Sorting\obj\Debug\net9.0\refint\1.Sorting.dll
 D:\DSA\1.Sorting\obj\Debug\net9.0\1.Sorting.pdb
 D:\DSA\1.Sorting\obj\Debug\net9.0\1.Sorting.genruntimeconfig.cache
 D:\DSA\1.Sorting\obj\Debug\net9.0\ref\1.Sorting.dll
+D:\DSA\1.Sorting\obj\Debug\net9.0\1.Sorting.sourcelink.json
